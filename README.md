@@ -1,1 +1,1 @@
-# ECOM_PROJECT_Pyhton_Django
+# ECOM_PROJECT_Python_Django
